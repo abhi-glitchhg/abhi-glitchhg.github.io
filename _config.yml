@@ -71,7 +71,7 @@ analytics:
 author:
   name             : "Abhijit Deo"
   avatar           : "my_pic.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Ratnagiri, Maharashtra"
   employer         :
   email            : "f20190041@goa.bits-pilani.ac.in" 
