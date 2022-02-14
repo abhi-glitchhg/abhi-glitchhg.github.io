@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About me"
+title: "Abhijit| अभिजित"
 excerpt: "About me"
+image: "bits_logo.jpeg"
 author_profile: true
 redirect_from: 
   - /about/
