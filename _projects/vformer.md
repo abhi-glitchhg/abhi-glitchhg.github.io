@@ -1,6 +1,6 @@
 ---
 title: "VFormer- A modular PyTorch library for Vision Transformer"
-collection: projects
+collection: "Projects"
 type: "Open Source Project"
 permalink: /projects/vformer
 venue: ""
