@@ -9,4 +9,4 @@ redirect_from:
 <h3>VFormer</h3>
 <h3>A modular PyTorch library for Vision Transformers</h3>
 
-[Code](www.github.com/sforaidl/vformer), [Documentation](https://vformer.readthedocs.io/en/latest/), St
+[Code](www.github.com/sforaidl/vformer), [Documentation](https://vformer.readthedocs.io/en/latest/)
