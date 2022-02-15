@@ -1,11 +1,11 @@
 ---
-title: "VFormer- A modular PyTorch library for Vision Transformers"
+title: "VFormer- A modular PyTorch library for Vision Transformer"
 collection: projects
-type: "Projects"
-permalink: /projects/vformer/
-redirect_from: 
-  - /projects/vformer
-  - /projects/vformer.html
+type: "Open Source Project"
+permalink: /projects/vformer
+venue: ""
+
+location: ""
 ---
 
 ## Library Features
