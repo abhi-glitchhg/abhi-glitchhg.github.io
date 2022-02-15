@@ -1,8 +1,8 @@
 ---
 title: "VFormer- A modular PyTorch library for Vision Transformers"
 collection: projects
+type: "Projects"
 permalink: /projects/vformer/
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 redirect_from: 
   - /projects/vformer
   - /projects/vformer.html
