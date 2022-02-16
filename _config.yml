@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhijit | अभिजित"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Abhijit Deo"
-description              : &description "Personal Website"
-url                      : https://abhi-glitchhg1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abhi-gltichhg/abhi-glitchhg1.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,18 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "abhijit_deo1"
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -69,15 +80,42 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhijit Deo"
-  avatar           : "my_pic.jpeg"
-  bio              : "Undergrad at Bits Pilani, Goa campus"
-  location         : "Ratnagiri, Maharashtra"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  email            : "f20190041@goa.bits-pilani.ac.in" 
-  github           : "abhi-glitchhg"
-  linkedin         : "abhijit-deo-b00870192"
-  twitter          : "abhijit_deo1"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
@@ -227,7 +265,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
