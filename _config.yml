@@ -251,9 +251,11 @@ defaults:
   - scope:
       path: ""
       type: projects
-      author_profile:  true
+    values:
+      layout: single
+      author_profile: true
       share: true
-      comment: true
+      comments: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
