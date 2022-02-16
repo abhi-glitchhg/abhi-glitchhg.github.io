@@ -8,7 +8,7 @@ date: 2022-02-07
 location: ""
 ---
 
-- A modular PyTorch library for Vision Transformers.
+### A modular PyTorch library for Vision Transformers.
 
 Library Features
 
