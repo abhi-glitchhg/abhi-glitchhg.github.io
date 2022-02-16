@@ -4,11 +4,12 @@ collection: "Projects"
 type: "Open Source Project"
 permalink: /projects/vformer
 venue: ""
-
+date: 2022-02-07
 location: ""
 ---
 
-## Library Features
+
+Library Features
 
 - Contains implementations of prominent ViT architectures broken down into modular components like encoder, attention mechanism, and decoder.
 
