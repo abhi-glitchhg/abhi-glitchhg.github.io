@@ -3,9 +3,8 @@ title: "VFormer"
 collection: projects
 type: "Open Source Project"
 permalink: /projects/vformer
-venue: ""
 date: 2022-02-07
-location: ""
+
 ---
 
 ### A modular PyTorch library for Vision Transformers.
