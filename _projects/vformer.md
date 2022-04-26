@@ -10,6 +10,8 @@ location: ""
 
 ### A modular PyTorch library for Vision Transformers.
 
+[![Downloads](https://pepy.tech/badge/vformer)](https://pepy.tech/project/vformer) 
+
 Library Features
 
 - Contains implementations of prominent ViT architectures broken down into modular components like encoder, attention mechanism, and decoder.
