@@ -12,9 +12,8 @@ location: ""
 
 [![Downloads](https://pepy.tech/badge/vformer)](https://pepy.tech/project/vformer) 
 [![Documentation](https://readthedocs.org/projects/vformer/badge/?version=latest)](https://vformer.readthedocs.io/en/latest/?badge=latest)
-[![StarGazers](https://pepy.tech/badge/vformer)](https://github.com/SforAiDl/vformer/stargazers)
 
-Library Features
+
 
 - Contains implementations of prominent ViT architectures broken down into modular components like encoder, attention mechanism, and decoder.
 
