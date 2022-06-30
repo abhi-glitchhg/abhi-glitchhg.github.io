@@ -9,9 +9,9 @@ date: 2022-02-07
 
 ### A modular PyTorch library for Vision Transformers.
 
+<iframe src="https://ghbtns.com/github-btn.html?user=sforaidl&repo=vformer&type=star&count=true" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 [![Downloads](https://pepy.tech/badge/vformer)](https://pepy.tech/project/vformer) 
 [![Documentation](https://readthedocs.org/projects/vformer/badge/?version=latest)](https://vformer.readthedocs.io/en/latest/?badge=latest)
-<iframe src="https://ghbtns.com/github-btn.html?user=sforaidl&repo=vformer&type=star&count=true" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
 
 
