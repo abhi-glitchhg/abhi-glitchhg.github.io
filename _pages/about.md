@@ -22,4 +22,4 @@ I love to play badminton and listen to Carnatic Instrumental music. I occasional
 ### Recent News
 
 * May 2022. Attending [3D Vision Workshop](http://cvit.iiit.ac.in/workshops/3dvision/) at IIIT Hyderabad.
-* May 2022. Got mentioned in [this](https://blog.datumbox.com/the-journey-of-modernizing-torchvision-memoirs-of-a-torchvision-developer-3/) blogpost  which discusses about the torchvision development  :smile:
+* May 2022. Got mentioned in [this](https://blog.datumbox.com/the-journey-of-modernizing-torchvision-memoirs-of-a-torchvision-developer-3/) blogpost  which discusses about the torchvision development  :) 
