@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<iframe src="/files/cv.pdf#toolbar=0" width="80%" height="500ps"></iframe>
+<iframe src="/files/cv.pdf#toolbar=0" width="80%" height="500px"></iframe>
 
 
 
