@@ -9,11 +9,10 @@ redirect_from:
 
 
 
-<iframe src="/files/cv.pdf#toolbar=0" width="750px" height="600px"></iframe>
+<iframe src="/files/cv.pdf#toolbar=0" width="80%" height="500ps"></iframe>
 
 
 
 also you can download my cv [here](https://abhi-glitchhg.github.io/files/cv.pdf).
-
 
 *Last updated on 28th June!*
