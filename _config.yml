@@ -83,7 +83,7 @@ author:
   name             : "Abhijit Deo"
   avatar           : "my_pic.jpeg"
   bio              : "Electronics Undergrad student at Bits Pilani Goa Campus"
-  location         : "Ratnagiri, Maharashtra"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "abhijit-deo-b00870192"
+  linkedin         : "abhijitdeo"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
