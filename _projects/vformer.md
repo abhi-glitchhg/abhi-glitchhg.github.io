@@ -20,3 +20,4 @@ date: 2022-02-07
 - Makes it easy to develop custom models by composing components of different architectures.
 
 [Code](https://github.com/sforaidl/vformer) [Documentation](https://vformer.readthedocs.io/)
+
