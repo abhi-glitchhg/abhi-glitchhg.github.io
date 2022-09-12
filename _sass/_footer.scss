@@ -37,7 +37,7 @@
   }
 
   a {
-    color: #252a34;
+    color: $lighter-gray;
     text-decoration: none;
 
     &:hover { text-decoration: underline;}
@@ -46,7 +46,7 @@
   .fas,
   .fab,
   .far,
-  .fal {color: #252a34;}
+  .fal {color: $lighter-gray;}
 }
 
 .page__footer-copyright {
