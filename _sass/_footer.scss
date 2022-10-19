@@ -20,8 +20,8 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  background-color: #252a34;
+  border-top: 1px solid #252a34;
 
   footer {
     @include clearfix;
@@ -37,20 +37,16 @@
   }
 
   a {
-    color: inherit;
+    color: $lighter-gray;
     text-decoration: none;
 
-    &:hover {
-      text-decoration: underline;
-    }
+    &:hover { text-decoration: underline;}
   }
 
   .fas,
   .fab,
   .far,
-  .fal {
-    color: mix(#fff, $gray, 25%);
-  }
+  .fal {color: $lighter-gray;}
 }
 
 .page__footer-copyright {
@@ -58,35 +54,5 @@
   font-size: $type-size-7;
 }
 
-.page__footer-follow {
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-  }
 
-  li {
-    display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
-  }
-
-  li + li:before {
-    content: "";
-    padding-right: 5px;
-  }
-
-  a {
-    padding-right: 10px;
-    font-weight: bold;
-  }
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
-}
+  
