@@ -11,4 +11,4 @@ As part of My Project @APPCAIR, I worked on Bayesian Deep learning and implement
 
 TODO : Let users choose the weight distribution. Currently only gaussian distribution is implemented.
 
-[code releasing soon](https://github.com)
+[code ~releasing soon~](https://github.com/abhi-glitchhg/bayesian_graph_convolution)
