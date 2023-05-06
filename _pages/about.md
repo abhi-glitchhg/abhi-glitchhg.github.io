@@ -20,7 +20,7 @@ I love to play badminton and listen to Carnatic Instrumental music. I occasional
 
  
 ### Recent News
-* May 2023. My GSoC proposal accepted @[INCF](https://www.incf.org/). I will be working on [The Virtual Brain Project](https://www.thevirtualbrain.org/tvb/). 😁
+* May 2023. My GSoC(Google summer of Code) proposal accepted @[INCF](https://www.incf.org/). I will be working on [The Virtual Brain Project](https://www.thevirtualbrain.org/tvb/). 😁
 * Jan 2023. Recieved Full time offer from [AIRA Matrix](https://airamatrix.com/) through campus placements. Will be joining the team as Trainee Engineer! 😀
 * Jan 2023. Happy New Year! Finished internship at SRIB, I've started exploring Rust and learning Ukelele. 
 * July 2022. Started my internship in the intelligence team at [Samsung R&D Institute, Bangalore](https://research.samsung.com/sri-b).
