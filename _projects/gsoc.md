@@ -1,4 +1,3 @@
-
 ---
 title: "GSOC"
 collection: projects
