@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an alumnus of [Bits Pilani, Goa Campus](https://www.bits-pilani.ac.in/Goa/) and currently working at (AIRA MATRIX)[https://airamatrix.com/]. I am interested in Artificial Intelligence, Generative Models, and Deep Learning. I am a member of the [Society for Artificial Intelligence and Deep Learning(SAIDL)](https://www.saidl.in/), where I actively contribute to open-source projects and participate in paper reading sessions. 
+I am an alumnus of [Bits Pilani, Goa Campus](https://www.bits-pilani.ac.in/Goa/) and currently working at [AIRA MATRIX](https://airamatrix.com/). I am interested in Artificial Intelligence, Generative Models, and Deep Learning. I am a member of the [Society for Artificial Intelligence and Deep Learning(SAIDL)](https://www.saidl.in/), where I actively contribute to open-source projects and participate in paper reading sessions. 
 
 I love to play badminton and listen to Carnatic Instrumental music. I occasionally roam in the nearby jungles and I have keen interest in Bird Watching.
 
