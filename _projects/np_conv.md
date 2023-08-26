@@ -1,14 +1,12 @@
 ---
-title: "GSOC"
+title: "optimized numpy convolutions"
 collection: projects
 type: "Open Source Project"
-permalink: /projects/gsoc23
+permalink: /projects/np_conv
 date: 2023-08-21
 
 ---
 
 
 
-### GSOC @INCF
-
-Here's something that i worked on.
+### np convs
