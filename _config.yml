@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abhijit Deo"
   avatar           : "my_pic.jpeg"
-  bio              : "Electronics Undergrad student at Bits Pilani Goa Campus"
+  #bio              : ""
   location         :
   employer         :
   pubmed           : 
