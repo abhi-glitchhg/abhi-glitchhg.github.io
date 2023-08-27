@@ -9,7 +9,7 @@ date: 2023-08-21
 
 
 
-### GSOC @TVB
+## GSOC @TVB
 
 Project Description: 
 
@@ -34,5 +34,33 @@ dataset from remote sources. Right now, we are focusing on the Zenodo
 platform
 
 
-##### Technical Details: 
-TO be added
+My work on this feature can be found in [this](https://github.com/the-virtual-brain/tvb-root/tree/TVB-1999-deo) branch or [this](https://github.com/the-virtual-brain/tvb-root/pull/691) pr against the master branch  
+
+
+## Technical Details and usage: 
+
+
+In the proposed idea, there is a `Zenodo` class through which one will interact with the Zenodo API. 
+
+The response from the Zenodo API is stored in the `Record` class. 
+
+One can use the above Zenodo and Record classes 
+
+
+```python
+
+#instantiate the Zenodo class
+zen = Zenodo() 
+
+# Suppose you are interested in working with a specific repository.
+# for this example lets consider https://zenodo.org/record/4263729 as the repository you are interested in.
+
+#then we can get the `record` object back using the get_record method of the zenodo class. In our case, "4263729" is the record id.
+
+record = zen.get_record("4263729")
+
+print(record)
+# 
+
+```
+
