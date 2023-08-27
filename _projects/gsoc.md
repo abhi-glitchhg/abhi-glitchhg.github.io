@@ -11,9 +11,9 @@ date: 2023-08-21
 
 ### GSOC @TVB
 
-##### Project Description: 
+Project Description: 
 
-The Virtual Brain (TVB) is a scientific simulation platform that provides all
+<font size="1"> The Virtual Brain (TVB) is a scientific simulation platform that provides all
 means to generate, manipulate and visualize connectivity and network dynamics
 of the brain networks. Researchers in Computational Neuroscience use brain
 network models to understand the dynamic behavior of the healthy and diseased
@@ -32,7 +32,7 @@ is to have a dedicated framework to manage the downloading and unzipping the
 dataset from remote sources. Right now, we are focusing on the Zenodo
 platform
 
-
+</font> 
 
 ##### Technical Details: 
 TO be added
