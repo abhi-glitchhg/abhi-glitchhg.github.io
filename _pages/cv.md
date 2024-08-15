@@ -10,7 +10,7 @@ redirect_from:
 
 If embedded cv does not load, please click [here](https://abhi-glitchhg.github.io/files/cv.pdf)
 
-*Last updated on 10th Jan '23!*
+*Last updated on 15th Aug '24!*
 
 
 
