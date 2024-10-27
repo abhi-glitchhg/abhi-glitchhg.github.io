@@ -1,7 +1,7 @@
 ---
 title: 'DropPath'
 date: 2024-10-27
-permalink: :/posts/2024/10/droppath_explained/
+permalink: /posts/2024/10/droppath_explained/
 ---
 
   
