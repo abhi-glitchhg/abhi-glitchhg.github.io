@@ -42,7 +42,7 @@ class SwinStage(nn.Module):
 
 Thanks to the VSCode tool that i was using, it showed me that the `drop_path` argument in the constructor was unused. Strange isnt it! I verified the original authors code and found that original swin transformer repo had a stocastic depth decay rule for `droppath` probability while in transformers repository the probability was constant and was picked from the config file. 
 
-I opened up a pull request in transformers repository mentioning the same. 
+I opened up a [pull request](https://github.com/huggingface/transformers/pull/34291/) in transformers repository mentioning the same. 
 
 But, at that moment i realised that i didnt have a proper understanding of what exactly is the drop path? I was well versed with the dropout! Droppath?? nuh. Funny thing that i had used the layer many times when i was writing [Vformer](https://abhi-glitchhg.github.io/projects/vformer). I felt bad. I decided to properly understand the layer and hence this blogpost. 
 
