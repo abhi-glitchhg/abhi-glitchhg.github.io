@@ -20,7 +20,7 @@ I love to play badminton and listen to Carnatic Instrumental music. I occasional
 
  
 ### Recent News
-* climbing the ~tree~ corporate ladder, one step at a time! got promoted to SDE2 guys!! 🥳🎉 
+* climbing the ~~tree~~ corporate ladder, one step at a time! got promoted to SDE2 guys!! 🥳🎉 
 * April 2024. I have joined [minus zero](https://www.minuszero.ai/) as SDE + MLE. I will be working on building tools for Autonomous driving suits and 3d vision. Very much excited to learn new things and explore the field of autonomous driving. 🚗 goes brrrrrrrrrrrrrr 
 * May 2023. My GSoC(Google summer of Code) proposal accepted @[INCF](https://www.incf.org/). I will be working on [The Virtual Brain Project](https://www.thevirtualbrain.org/tvb/). 😁 
 * Jan 2023. Recieved Full time offer from [AIRA Matrix](https://airamatrix.com/) through campus placements. Will be joining the team as Trainee Engineer! 😀
