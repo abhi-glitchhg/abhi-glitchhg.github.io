@@ -3,7 +3,7 @@ title: "Modi Script Conversion Tool"
 collection: projects
 type: "Open Source Project"
 permalink: /projects/modi_lipi
-date: 2022-02-07
+date: 2025-06-12
 
 ---
 
