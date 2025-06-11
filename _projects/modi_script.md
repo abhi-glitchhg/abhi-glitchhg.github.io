@@ -2,7 +2,7 @@
 title: "Modi Script Conversion Tool"
 collection: projects
 type: "Open Source Project"
-permalink: /projects/modi_lipi
+permalink: /projects/modi_script
 date: 2025-06-12
 
 ---
