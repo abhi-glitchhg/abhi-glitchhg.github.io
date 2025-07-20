@@ -10,7 +10,9 @@ redirect_from:
 
 I am an alumnus of [Bits Pilani, Goa Campus](https://www.bits-pilani.ac.in/Goa/) and currently working at [minus zero](https://minuszero.ai/). I actively contribute to open-source projects (checkout [Vformer](github.com/sforAiDl/vformer) and [pytorch blogpost](https://pytorch.org/blog/pytorch-1.12-new-library-releases/#new-augmentations-layers-and-losses)). 
 
-I love to play badminton and listen to Carnatic Instrumental music. I occasionally roam in the nearby jungles, climb trees and I have keen interest in Bird Watching.
+I love to play badminton and listen to Carnatic Instrumental music. I occasionally roam in the nearby jungles, climb trees and I have keen interest in Bird Watching. I also have some interest in languages and scripts. I can speak marathi, Hindi, English fluently, as well as Malvani dialect of marathi. I also have tried my hands at sanskrit, kannada, german!
+
+
 
 
 
@@ -20,6 +22,7 @@ I love to play badminton and listen to Carnatic Instrumental music. I occasional
 
  
 ### Recent News
+* Created a tool for devanagari to modi conversion: https://abhi-glitchhg.github.io/modi_lipi ! Check it out.
 * Jan 2025, climbing the ~~tree~~ corporate ladder, one step at a time! got promoted to SDE2 guys!! 🥳🎉 
 * April 2024. I have joined [minus zero](https://www.minuszero.ai/) as SDE + MLE. I will be working on building tools for Autonomous driving suits and 3d vision. Very much excited to learn new things and explore the field of autonomous driving. 🚗 goes brrrrrrrrrrrrrr 
 * May 2023. My GSoC(Google summer of Code) proposal accepted @[INCF](https://www.incf.org/). I will be working on [The Virtual Brain Project](https://www.thevirtualbrain.org/tvb/). 😁 
