@@ -10,7 +10,7 @@ redirect_from:
 
 If embedded cv does not load, please click [here](https://abhi-glitchhg.github.io/files/cv.pdf)
 
-*Last updated on 27th Oct '24!*
+*Last updated on 27th Oct '25!*
 
 
 <iframe width='100%' height='600px' frameborder='0' scrolling='yes' class='embed-responsive-item' 
