@@ -24,6 +24,7 @@ I also have some interest in languages and scripts. I can speak Marathi, Hindi, 
 
  
 ### Recent News
+* Jun 2026. Working on making Vaidik sanskrit accessible to all via modern technologies. Developing tools/readers in the same space. First project [ऋग्वेद संहिता](https://deeplearningforsanskrit.github.io/rigveda-samhita/) is now online!
 * Created a tool for devanagari to modi conversion: [Modi Script Converter](https://abhi-glitchhg.github.io/modi_lipi) ! Check it out.
 * Jan 2025, climbing the ~~tree~~ corporate ladder, one step at a time! got promoted to SDE2 guys!! 🥳🎉 
 * April 2024. I have joined [minus zero](https://www.minuszero.ai/) as SDE + MLE. I will be working on building tools for Autonomous driving suits and 3d vision. Very much excited to learn new things and explore the field of autonomous driving. 🚗 goes brrrrrrrrrrrrrr 
