@@ -97,9 +97,3 @@ npx serve .
 Then open `http://localhost:8000`. The Service Worker will register but cache-version checks won't behave identically to production — use DevTools → Application → Service Workers → "Update on reload" during development.
 
 ---
-
-## Acknowledgements
-
-वन्दे गुरु परम्पराम्
-
-Developed by [Abhijit Deo](https://abhi-glitchhg.github.io/) · [Project Website](https://deeplearningforsanskrit.github.io/)
