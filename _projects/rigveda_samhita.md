@@ -3,7 +3,7 @@ title: "Rigveda-Samhita"
 collection: projects
 type: "Open Source Project"
 permalink: /projects/rigveda_samhita
-date: 2026-06-2o
+date: 2026-06-20
 
 ---
 
